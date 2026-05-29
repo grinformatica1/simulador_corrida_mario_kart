@@ -177,4 +177,4 @@ node index.js
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Guilherme Ribeiro** como projeto de estudo para aprimoramento em **JavaScript**, **lógica de programação** e **desenvolvimento de software**.
+Projeto estudado por **Guilherme Ribeiro** como projeto de estudo para aprimoramento em **JavaScript**, **lógica de programação** e **desenvolvimento de software**.
