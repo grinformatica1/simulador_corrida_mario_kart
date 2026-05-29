@@ -175,6 +175,34 @@ node index.js
 
 ---
 
-## 👨‍💻 Autor
+## 📚 Créditos
 
-Projeto estudado por **Guilherme Ribeiro** como projeto de estudo para aprimoramento em **JavaScript**, **lógica de programação** e **desenvolvimento de software**.
+Este projeto foi utilizado como exercício de estudo durante meu aprendizado de JavaScript e Node.js.
+
+O código original foi desenvolvido como parte de um desafio/projeto educacional. Neste repositório realizei modificações, correções e melhorias com o objetivo de praticar conceitos de programação e aprofundar meu entendimento da linguagem.
+
+---
+
+## ✍️ Minha Contribuição
+
+Este repositório foi utilizado como projeto de estudo para praticar JavaScript e Node.js.
+
+As principais alterações realizadas por mim foram:
+
+- Implementação do sistema de itens aleatórios durante os confrontos:
+  - 🐢 Casco
+  - 💣 Bomba
+- Criação da lógica para sorteio aleatório dos itens.
+- Ajuste da regra da bomba para remover **2 pontos** do adversário.
+- Ajuste da regra do casco para remover **1 ponto** do adversário.
+- Ajuste das mensagens exibidas no console para informar perda de pontos apenas quando a penalidade é efetivamente aplicada.
+- Correções e melhorias na lógica do jogo para fins de aprendizado.
+
+O objetivo dessas modificações foi praticar conceitos de:
+
+- JavaScript
+- Node.js
+- Estruturas condicionais
+- Manipulação de objetos
+- Regras de negócio
+- Lógica de programação
